@@ -29,7 +29,6 @@ button {
     border: 0.25rem solid #fff;
     color: #fff;
     background-color: #22222200;
-    font-family: var(--font-google);
     font-size: 1rem;
     cursor: pointer;
     transition: 250ms;
